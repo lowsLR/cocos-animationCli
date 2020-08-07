@@ -1,0 +1,76 @@
+2020-08-06T08:26:21.833Z - normal: Load ~/.CocosCreator/settings.json
+2020-08-06T08:26:21.913Z - normal: Initializing Asset Database
+2020-08-06T08:26:21.919Z - normal: checking language setting...
+2020-08-06T08:26:21.919Z - normal: Language: zh
+2020-08-06T08:26:23.194Z - success: protocol editor-framework registered
+2020-08-06T08:26:23.194Z - success: protocol app registered
+2020-08-06T08:26:23.194Z - success: protocol theme registered
+2020-08-06T08:26:23.194Z - success: protocol packages registered
+2020-08-06T08:26:23.195Z - success: protocol uuid registerred
+2020-08-06T08:26:23.195Z - success: protocol db registerred
+2020-08-06T08:26:23.195Z - success: protocol thumbnail registerred
+2020-08-06T08:26:23.195Z - success: protocol unpack registerred
+2020-08-06T08:26:23.195Z - success: protocol disable-commonjs registerred
+2020-08-06T08:26:23.381Z - normal: connected!
+2020-08-06T08:26:23.383Z - normal: Check project D:\CosocProject\Animation2
+2020-08-06T08:26:23.386Z - normal: Initializing project D:\CosocProject\Animation2
+2020-08-06T08:26:23.593Z - success: adapters loaded
+2020-08-06T08:26:23.597Z - success: asset-db-debugger loaded
+2020-08-06T08:26:23.677Z - success: fb-audience-network loaded
+2020-08-06T08:26:23.717Z - success: fb-live-stream loaded
+2020-08-06T08:26:23.721Z - success: google-play-instant loaded
+2020-08-06T08:26:23.722Z - success: jsb-adapter loaded
+2020-08-06T08:26:23.728Z - success: package-manager loaded
+2020-08-06T08:26:23.729Z - success: runtime-adapters loaded
+2020-08-06T08:26:23.733Z - success: runtime-dev-tools loaded
+2020-08-06T08:26:23.739Z - success: sdkbox loaded
+2020-08-06T08:26:23.743Z - success: ui-kit-preview-extra loaded
+2020-08-06T08:26:23.746Z - success: ui-kit-preview loaded
+2020-08-06T08:26:23.806Z - success: alipay-minigame loaded
+2020-08-06T08:26:23.911Z - success: assets loaded
+2020-08-06T08:26:23.914Z - success: baidugame-opendata loaded
+2020-08-06T08:26:23.916Z - success: baidugame loaded
+2020-08-06T08:26:23.919Z - success: builder loaded
+2020-08-06T08:26:23.925Z - success: cloud-function loaded
+2020-08-06T08:26:24.162Z - success: cocos-services loaded
+2020-08-06T08:26:24.170Z - success: console loaded
+2020-08-06T08:26:24.172Z - success: curve-editor loaded
+2020-08-06T08:26:24.190Z - success: fb-instant-games loaded
+2020-08-06T08:26:24.193Z - success: game-window loaded
+2020-08-06T08:26:24.196Z - success: google-instant-games loaded
+2020-08-06T08:26:24.200Z - success: hierarchy loaded
+2020-08-06T08:26:24.204Z - success: huawei-runtime loaded
+2020-08-06T08:26:24.208Z - success: inspector loaded
+2020-08-06T08:26:24.230Z - success: cpk-publish loaded
+2020-08-06T08:26:24.231Z - success: keystore loaded
+2020-08-06T08:26:24.244Z - success: node-library loaded
+2020-08-06T08:26:24.245Z - success: open-recent-items loaded
+2020-08-06T08:26:24.248Z - success: oppo-runtime loaded
+2020-08-06T08:26:24.251Z - success: package-asset loaded
+2020-08-06T08:26:24.252Z - success: preferences loaded
+2020-08-06T08:26:24.254Z - success: project-importer loaded
+2020-08-06T08:26:24.255Z - success: project-settings loaded
+2020-08-06T08:26:24.273Z - success: qtt-runtime loaded
+2020-08-06T08:26:24.276Z - success: scene loaded
+2020-08-06T08:26:24.277Z - success: simulator-debugger loaded
+2020-08-06T08:26:24.278Z - success: sprite-editor loaded
+2020-08-06T08:26:24.330Z - success: store loaded
+2020-08-06T08:26:24.334Z - success: timeline loaded
+2020-08-06T08:26:24.338Z - success: vivo-runtime loaded
+2020-08-06T08:26:24.341Z - success: wechatgame-opendata loaded
+2020-08-06T08:26:24.346Z - success: wechatgame loaded
+2020-08-06T08:26:24.350Z - success: xiaomi-runtime loaded
+2020-08-06T08:26:24.785Z - success: im-plugin loaded
+2020-08-06T08:26:24.788Z - warn: The current '7456' preview port is already occupied, the port is automatically incremented
+2020-08-06T08:26:24.790Z - success: preview server running at http://localhost:7457
+2020-08-06T08:26:26.718Z - info: Cocos Service load base data!
+2020-08-06T08:26:33.120Z - normal: Initializing Cocos2d
+2020-08-06T08:26:33.698Z - normal: Initializing engine extends
+2020-08-06T08:26:42.438Z - normal: Loading packages
+2020-08-06T08:26:42.449Z - normal: Watching packages
+2020-08-06T08:26:42.519Z - normal: Run Application
+2020-08-06T08:53:13.244Z - success: im-plugin unloaded
+2020-08-06T08:53:13.447Z - success: im-plugin loaded
+2020-08-06T08:53:13.520Z - success: im-plugin unloaded
+2020-08-06T08:53:13.760Z - success: im-plugin loaded
+2020-08-06T10:01:31.758Z - info: shutdown preview server
